@@ -5,7 +5,7 @@ import { Link } from "expo-router";
 export default function App() {
     return (
         <View style={styles.container}>
-            <Text>Linux tests</Text>
+            <Text>Tja</Text>
             <StatusBar style="auto" />
             <Link href="/profile" style={{ color: "blue" }}>
                 Go to Profile
